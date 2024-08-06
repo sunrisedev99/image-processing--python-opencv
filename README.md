@@ -1,29 +1,15 @@
-# Image enhancement using openCV
+# Image improvement using openCV
 
 An image enhancement module used for improving the quality of images using different filters in openCV. 
 It works better with gray-scale images. 
 
 The filters used are median_filter for removing noise from the image, The histogram equalizer is used for contrast adjustment of the image and Gamma correction is also applied for preventing the image from darkening.
 
-## Table of contents
-
-- [Getting started](#getting-started)
-- [Features](#features)
-- [Usage](#usage)
-- [Results](#results)
-- [Want to Contribute?](#want-to-contribute)
-- [Need Help / Support?](#need-help)
-- [Collection of Other Components](#collection-of-components)
-- [Changelog](#changelog)
-- [Credits](#credits)
-- [License](#license)
-- [Keywords](#Keywords)
-
 ## Getting started
 
 Prerequisites for running the code are:
 
-Python =3.5<br/>
+Python =3.7<br/>
 python-opencv =4.2.0<br/>
 scipy =1.3.1<br/>
 
